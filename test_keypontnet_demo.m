@@ -1,8 +1,6 @@
 
 % Time:2023-11-18
 % Function: Fast compute the keypoint from a point cloud
-% Reference: Chengzhuan Yang et al. A Fast and Lightweight Unsupervised 3D Keypoint Detector, submitted to CVPR2024
-% @author：Chengzhuan Yang (czyang@zjnu.edu.cn)
 
 
 addpath('include/jsonlab-master/');                 % matlab read json
