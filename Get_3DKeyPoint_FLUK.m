@@ -1,4 +1,4 @@
-function  predict_3DKeypoint = Get_3DKeyPoint_FLUK(points_XYZ)
+function  predict_3DKeypoint = Get_3DKeyPoint_FL3K(points_XYZ)
 
 
  salient_value = GetSalientValue_PointCloud(points_XYZ);                      % compute the geometric and high-level semantic saliency
