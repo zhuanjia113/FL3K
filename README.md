@@ -2,4 +2,4 @@
 
 
 
-KeypointNet dataset https://qq456cvb.github.io/keypointnet/explore/ 
+KeypointNet dataset https://qq456cvb.github.io/keypointnet/
