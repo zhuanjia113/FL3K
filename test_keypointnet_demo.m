@@ -38,7 +38,7 @@ for i = 1:json_Count
         points_XYZ = double(ptCloud.Location);
         
        
-        predict_keypoints = Get_3DKeyPoint_FLUK(points_XYZ);                              % Detect the 3D keypoint 
+        predict_keypoints = Get_3DKeyPoint_FL3K(points_XYZ);                              % Detect the 3D keypoint 
 
 
         IOUs = Get_3DKeyPoint_IOU(model_keypoints, double(predict_keypoints));
